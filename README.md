@@ -16,4 +16,4 @@ Finance & Analytics: Monte Carlo Simulations, DCF Valuation, LBO Modeling
 Data Visualization: Tableau, Excel Dashboards  
 
 Let's Connect!  
-[📌 LinkedIn](https://www.linkedin.com/in/anupam-p-patil) | [📌 GitHub](https://github.com/anupam-patil)
+[LinkedIn](https://www.linkedin.com/in/anupam-p-patil) | [GitHub](https://github.com/anupam-patil)
