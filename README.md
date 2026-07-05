@@ -1,5 +1,7 @@
 # Anupam Patil
 
+**🌐 Portfolio: [jarvisss007.github.io](https://jarvisss007.github.io)** — papers, code, and an interactive hidden-Markov regime explorer
+
 Quantitative finance researcher — M.S. Finance (UC Riverside, Dec 2024). I build
 trading research with an emphasis on **honest evaluation**: walk-forward testing,
 realistic transaction costs, and significance testing before believing any backtest.
