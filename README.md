@@ -29,6 +29,27 @@ Probability of Backtest Overfitting (CSCV), and minimum backtest length.
 Case study included: I applied it to my own TradingView strategy and it
 correctly convicted the strategy as overfit. Eating my own cooking.
 
+## 🚚 Production systems — forward-deployed (private repos)
+
+Since early 2026 I've been the sole technical person inside a Southern California
+drayage carrier, building their operating stack end-to-end (private repos):
+
+- **Dispatch automation platform** — 41,000+ lines of Python, 347 automated tests:
+  broker-email classification → live-board load matching → human-approved draft
+  replies. Human-in-the-loop by design; the code has no auto-send scope.
+- **Driver channel & documents** — WhatsApp driver messaging (Playwright), mobile
+  proof-of-delivery upload, automatic detention claims, rate-con PDF extraction
+  with an LLM fallback for scanned documents.
+- **Live operations dashboard** — 30-second GPS fleet map, per-load net-income
+  ledger across 7,000+ annual loads, appointment board swept from Gmail, CPA-ready
+  P&L reporting.
+- **Verification culture, ported from my research** — weekly billing/payroll gates
+  and a calibration scoreboard that scores every model prediction against ground
+  truth before anything touches money.
+
+Same discipline as the research above, pointed at a real business: automate the
+workflow, keep a human on the trigger, and measure every promise the system makes.
+
 ## 🔬 Interests
 
 - Backtest overfitting and multiple-testing discipline
