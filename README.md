@@ -5,8 +5,10 @@
 Quantitative finance researcher — M.S. Finance (UC Riverside, Dec 2024). I build
 trading research with an emphasis on **honest evaluation**: walk-forward testing,
 realistic transaction costs, and significance testing before believing any backtest.
-Two working papers and an open-source toolkit, all reproducible — CI re-verifies
-every published number on each commit.
+Three working papers and an open-source toolkit, all reproducible — CI re-verifies
+every published number on each commit — plus a fleet of LLM-agent systems that run,
+score and audit the research desk autonomously
+([case study](https://jarvisss007.github.io/qbts-case-study.html)).
 
 ## 📄 Working papers
 
@@ -20,6 +22,12 @@ Finding: fat tails — not hidden states — drive tail-risk calibration.
 A cautionary study across equities and commodities (S&P 500, NASDAQ, WTI crude).
 Every number reproduces from public data with two commands. Headline finding: the
 popular DC+ML trading edge does **not** survive rigorous out-of-sample testing.
+
+**[How Many Retail Trading Strategies Survive Honest Evaluation?](https://github.com/jarvisss007/strategy-lab)**
+A systematic survey: 8 classic strategy families across full parameter grids on 15
+years of data, judged by a pre-registered Deflated-Sharpe + PBO gate. Finding: no
+market-neutral family survives; 12 frozen rules continue forward-testing daily in a
+public paper-trading arena whose blotter commits to the repo on every run.
 
 ## 🧰 Open-source toolkit
 
