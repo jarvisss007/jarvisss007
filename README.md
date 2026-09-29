@@ -10,6 +10,13 @@ every published number on each commit — plus a fleet of LLM-agent systems that
 score and audit the research desk autonomously
 ([case study](https://jarvisss007.github.io/qbts-case-study.html)).
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
 ## 📄 Working papers
 
 **[Do Hidden Markov Regimes Add Out-of-Sample Value?](https://github.com/jarvisss007/regime-monte-carlo)**
