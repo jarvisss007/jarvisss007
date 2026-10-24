@@ -28,7 +28,7 @@
 
 | Project | What it shows |
 |---|---|
-| **[signal-audit](https://github.com/jarvisss007/signal-audit)** | A trading indicator tested by AI agents under rules they could not bend. A reviewer agent killed a false positive with a placebo test before the one-shot holdout was scored, and the study ends in an honest null. Ships a reusable scorer, placebo gate, freeze check and hash-chained trial ledger. |
+| **[signal-audit](https://github.com/jarvisss007/signal-audit)** | A trading indicator tested by AI agents under rules they could not bend. A reviewer agent killed a false positive with a placebo test before the one-shot holdout was scored, and the study ends in an honest null. Ships a reusable scorer, placebo gate, freeze check and hash-chained trial ledger, plus an MCP server that lets any AI agent run the audit as tools while refusing every shortcut in code. |
 | **[agent-verification-lab](https://github.com/jarvisss007/agent-verification-lab)** | Four runtime primitives that put a deterministic guardrail around an LLM's decisions: a state guard, an idempotent executor, a default-deny policy gate, and a hash-chained event log with crash replay. 18 tests, CI on Python 3.11 to 3.13. |
 | **[Case study: One Wrong Price](https://jarvisss007.github.io/qbts-case-study.html)** | A stale price feed slipped one wrong fill past about 50 green automated checks. The diagnosis, the correction (including the mistake I made making it), and the input check the system was missing. |
 
