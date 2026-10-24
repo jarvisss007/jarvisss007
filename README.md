@@ -67,7 +67,7 @@ Since early 2026 I have been the sole technical person inside a Southern Califor
 ## Also built
 
 - **[janani-english](https://github.com/jarvisss007/janani-english)**: an offline English-learning app I built for my mother, from Kannada to confident English. No account, no API. [Open it](https://jarvisss007.github.io/janani-english/).
-- **[panchatantra-storybook](https://github.com/jarvisss007/panchatantra-storybook)**: an illustrated, offline course in the Panchatantra: five books, 48 tales, all art in inline SVG.
+- **[panchatantra-storybook](https://github.com/jarvisss007/panchatantra-storybook)**: an illustrated, offline course in the Panchatantra: five books, 48 tales, all art in inline SVG. [Open it](https://jarvisss007.github.io/panchatantra-storybook/).
 
 <details>
 <summary><b>Earlier coursework</b></summary>
